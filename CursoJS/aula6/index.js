@@ -1,3 +1,13 @@
+//Não podemos criar variaveis com palavras reservadas
+//Variaveis precisam ter nomes significativos
+//Não pode começar o nome de uma variavel com numero
+//Não podem conter espaços ou traços
+//Utilizamos camelCase
+//Case-Sentitive
+// não podemos redeclarar variaveis com let
+// não utilizar var, utilizar let
+
+
 let pai = 'João';
 let mae = 'Fernanda';
 let filho = 'José';
